@@ -1,0 +1,7 @@
+This is just a simple program that compute matrices for linear algebra. The class Matrix for now only has the following functions:
+
+1. Compute the transpose of a matrix.
+2. Compute the addition of matrices.
+3. Compute the result of a matrix multiplied by a scalar.
+4. Compute the result of a matrix multiplied by another matrix.
+5. View some basic information about the matrix.
